@@ -21,6 +21,6 @@ https://github.com/Rapptz/discord.py#installing
 
 
 ## 🔧 Expand / Customize
-拡張する場合、引数`ctx`に渡される型が[Interaction](https://discordpy.readthedocs.io/ja/latest/interactions/api.html#interaction)であることに注意してください。
-そのほか、単純に`v2.0`移行時にいくつかの変更が行われています。
+拡張する場合、引数`ctx`に渡される型が[Interaction](https://discordpy.readthedocs.io/ja/latest/interactions/api.html#interaction)であることに注意してください。  
+そのほか、単純に`v2.0`移行時にいくつかの変更が行われています。  
 https://discordpy.readthedocs.io/ja/latest/migrating.html
